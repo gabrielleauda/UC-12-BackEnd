@@ -1,0 +1,15 @@
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.csproj.AssemblyReference.cache
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.AssemblyInfoInputs.cache
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.AssemblyInfo.cs
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\bin\Debug\net6.0\UC-12-BackEnd.exe
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\bin\Debug\net6.0\UC-12-BackEnd.deps.json
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\bin\Debug\net6.0\UC-12-BackEnd.runtimeconfig.json
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\bin\Debug\net6.0\UC-12-BackEnd.dll
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\bin\Debug\net6.0\UC-12-BackEnd.pdb
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.dll
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\refint\UC-12-BackEnd.dll
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.pdb
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\UC-12-BackEnd.genruntimeconfig.cache
+C:\Users\gabi_\OneDrive\Área de Trabalho\UC-12-BackEnd\obj\Debug\net6.0\ref\UC-12-BackEnd.dll
