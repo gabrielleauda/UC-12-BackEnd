@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using UC_12_BackEnd.Interfaces;
 
@@ -45,8 +46,28 @@ namespace UC_12_BackEnd.classes
         }
 
         public bool ValidarCnpj(string cnpj)
+
         {
-            throw new NotImplementedException();
+          bool retornoCnpjValido =  Regex.IsMatch(cnpj,@"^(\d{14})|(\d{2}.\d{3}.\d{3}/d{4}-\{2})$");
+
+          if (retornoCnpjValido)
+          {
+            string substringCnpj14 = cnpj.Substring(8, 4);
+
+            if (substringCnpj14 == "0001")
+            {
+                return true;
+            }
+           
+          }
+
+          string substringCnpj18 = cnpj.Substring(11, 4);
+           if (substringCnpj18 == "0001")
+            {
+                return true;
+            }
+
+          return false;
         }
     }
 }
