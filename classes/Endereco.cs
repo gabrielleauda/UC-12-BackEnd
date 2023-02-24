@@ -11,7 +11,7 @@ namespace UC_12_BackEnd.classes
 
         public int numero {get; set;}
 
-        public string? completento {get; set;}
+        public string? complemento {get; set;}
 
         public bool endComercial {get; set;}
     }
